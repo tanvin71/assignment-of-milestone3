@@ -62,11 +62,6 @@ function brickCalculator(storied) {
 var result = brickCalculator(15);
 console.log(result);
 
-   
-
-
-
-
 
 
        /** Fourth function solving */
